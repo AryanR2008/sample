@@ -1,1 +1,3 @@
-# sample
+# Sample
+Hi there, this is for learning how to use git and github.
+This is my first time using it...
